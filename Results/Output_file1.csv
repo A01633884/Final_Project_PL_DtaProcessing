@@ -1,5 +1,5 @@
-DESCRIPCION,CANTIDAD,FECHA_MODIF,ACCION,USER,ROLE
-Tornillo Percutor,5,23/07/2022,E,Uriel,Analyst
-Martillo,10,23/07/2022,E,Uriel,Analyst
-Loseta Blanca 2 x 2 metros,11,23/07/2022,A,Cesar,Consultant
-Llave Inglesa,23,24/07/2022,S,Jose,External
+ID,PRODUCTO,DESCRIPCION,CANTIDAD,VALOR,FECHA
+Tornillo Percutor,5,23/07/202
+Martillo,10,23/07/2022
+Loseta Blanca 2 x 2 metros,11,23/07/2022
+Llave Inglesa,23,24/07/2022
